@@ -1,0 +1,25 @@
+{
+  "name": "nist-web-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-infatuation/nist-web-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-infatuation/nist-web-boilerplate/issues"
+  },
+  "homepage": "https://github.com/the-infatuation/nist-web-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jquery": "^3.4.0",
+    "mocha": "^6.1.4"
+  }
+}
