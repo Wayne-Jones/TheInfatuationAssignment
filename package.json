@@ -20,6 +20,6 @@
   "dependencies": {
     "express": "^4.16.3",
     "jquery": "^3.5.0",
-    "mocha": "^6.1.4"
+    "mocha": "^10.2.0"
   }
 }
